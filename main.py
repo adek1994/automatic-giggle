@@ -1,5 +1,4 @@
 def fizzbuzz(number: int) -> str:
-    print("FizzBuzz func")
     return ""
 
 
